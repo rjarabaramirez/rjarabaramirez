@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](portada.png)
 
 # Hola, soy Roberto Carlos Jaraba Ramírez 👋
 
