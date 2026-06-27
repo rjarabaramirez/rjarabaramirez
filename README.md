@@ -1,78 +1,134 @@
-<p align="center">
-  <img src="portada.png" alt="Banner Roberto Carlos Jaraba Ramírez" width="100%">
-</p>
 
-<h1 align="center">Hola, soy Roberto Carlos Jaraba Ramírez 👋</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • Entrepreneur • Problem Solver
-</h3>
+<img src="portada.png" width="100%">
 
-<p align="center">
+# Hola, soy Roberto Carlos Jaraba Ramírez 👋
+
+### Full Stack Developer • Emprendedor • Problem Solver
+
 Construyendo software que resuelve problemas reales de negocio.
-</p>
 
-<p align="center">
-  <a href="mailto:robertojara98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<br>
 
-  <a href="https://www.linkedin.com/in/roberto-jaraba-64aa281a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<a href="mailto:robertojara98@gmail.com">
+<img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-Después de casi una década trabajando con empresas, diseño gráfico, procesos de producción y gestión de negocios, decidí llevar esa experiencia al desarrollo de software.
+<a href="https://www.linkedin.com/in/roberto-jaraba-64aa281a7/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-Hoy estoy enfocado en crear aplicaciones web escalables, con interfaces modernas y una arquitectura limpia, siempre pensando primero en el problema que necesita resolver el cliente.
-
-Actualmente desarrollo **Estelar ERP**, un sistema que nació para resolver las necesidades reales de mi propia empresa y que continúa evolucionando como una plataforma completa de gestión empresarial.
+</div>
 
 ---
+
+<table>
+
+<tr>
+
+<td width="60%" valign="top">
+
+# 👨🏻‍💻 Sobre mí
+
+Durante casi una década trabajé en diseño gráfico, publicidad y procesos de producción para empresas.
+
+Con el tiempo descubrí que lo que más disfrutaba era construir soluciones.
+
+Hoy estoy enfocado en el desarrollo de software, creando aplicaciones modernas, escalables y pensadas para resolver problemas reales.
+
+Mi filosofía es sencilla:
+
+> **Primero resolver el problema. Luego escribir un buen código. Finalmente crear una excelente experiencia de usuario.**
+
+</td>
+
+<td width="40%" valign="top">
 
 ## 🚀 Actualmente
 
-- 💻 Desarrollando **Estelar ERP**
-- 📚 Aprendiendo Inteligencia Artificial aplicada al desarrollo
-- ⚡ Mejorando mis habilidades como Full Stack Developer
-- 🎯 Buscando oportunidades para desarrollar software que genere impacto
+✔ Construyendo **Estelar ERP**
+
+✔ Mejorando UX/UI
+
+✔ Aprendiendo Inteligencia Artificial
+
+✔ Creando mi portafolio profesional
+
+✔ Buscando mi primera oportunidad como Full Stack Developer
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 💡 Mi filosofía
+# 🛠 Tech Stack
 
-> *La tecnología solo tiene valor cuando resuelve problemas reales.*
+<p align="center">
 
-Antes de escribir una línea de código me pregunto:
+<img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,mysql,git,github,vscode,figma,python"/>
 
-**¿Qué problema estamos solucionando?**
-
-Después pienso en la experiencia del usuario.
-
-Y finalmente en construir una arquitectura limpia, mantenible y escalable.
+</p>
 
 ---
 
-## 🛠 Tecnologías
+# ⭐ Proyecto Principal
 
-Laravel • PHP • JavaScript • HTML • CSS • MySQL • Git
+## Estelar ERP
 
-Actualmente sigo aprendiendo nuevas tecnologías y herramientas de IA para potenciar mi desarrollo.
+Sistema ERP desarrollado desde cero para resolver las necesidades reales de mi propia empresa.
+
+Actualmente incluye módulos para:
+
+- Clientes
+- Cotizaciones
+- Producción
+- Inventario
+- Finanzas
+- Reportes
+
+Mi objetivo es convertirlo en una plataforma SaaS para pequeñas empresas.
 
 ---
 
-## 🌎 Un poco sobre mí
+# 💼 Mi experiencia
 
-📍 Sincelejo, Colombia
+Antes de dedicarme al desarrollo de software trabajé durante más de nueve años como diseñador gráfico y consultor en procesos de producción.
 
-🎓 Ingeniero de Sistemas (Proceso de grado)
+Esa experiencia me permitió entender cómo funcionan realmente los negocios.
 
-🚀 Fundador de mi propia empresa
-
-❤️ Me apasiona crear productos que las personas realmente utilicen.
+Hoy aplico ese conocimiento para crear software útil, escalable y orientado a resolver necesidades reales.
 
 ---
 
-## 📫 Contacto
+# 📈 GitHub
 
-Próximamente...
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rjarabaramirez&show_icons=true&theme=tokyonight&hide_border=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjarabaramirez&layout=compact&theme=tokyonight&hide_border=true">
+
+</p>
+
+---
+
+# 🎯 Mi objetivo
+
+Mi meta no es simplemente escribir código.
+
+Quiero construir productos digitales que generen impacto real en las empresas y mejoren la vida de las personas que los utilizan.
+
+---
+
+<div align="center">
+
+### Gracias por visitar mi perfil.
+
+Siempre estoy abierto a colaborar en proyectos interesantes.
+
+</div>
+```
