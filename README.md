@@ -12,6 +12,16 @@ Full Stack Developer • Entrepreneur • Problem Solver
 Construyendo software que resuelve problemas reales de negocio.
 </p>
 
+<p align="center">
+  <a href="mailto:robertojara98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/roberto-jaraba-64aa281a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 Después de casi una década trabajando con empresas, diseño gráfico, procesos de producción y gestión de negocios, decidí llevar esa experiencia al desarrollo de software.
 
 Hoy estoy enfocado en crear aplicaciones web escalables, con interfaces modernas y una arquitectura limpia, siempre pensando primero en el problema que necesita resolver el cliente.
