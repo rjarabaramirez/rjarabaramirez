@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # Hola, soy Roberto Carlos Jaraba Ramírez 👋
 
 ### Full Stack Developer | Business Problem Solver | Entrepreneur
