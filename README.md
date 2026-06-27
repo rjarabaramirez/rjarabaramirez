@@ -1,10 +1,16 @@
-![Banner](portada.png)
+<p align="center">
+  <img src="portada.png" alt="Banner Roberto Carlos Jaraba Ramírez" width="100%">
+</p>
 
-# Hola, soy Roberto Carlos Jaraba Ramírez 👋
+<h1 align="center">Hola, soy Roberto Carlos Jaraba Ramírez 👋</h1>
 
-### Full Stack Developer | Business Problem Solver | Entrepreneur
+<h3 align="center">
+Full Stack Developer • Entrepreneur • Problem Solver
+</h3>
 
-Construyo software para resolver problemas reales.
+<p align="center">
+Construyendo software que resuelve problemas reales de negocio.
+</p>
 
 Después de casi una década trabajando con empresas, diseño gráfico, procesos de producción y gestión de negocios, decidí llevar esa experiencia al desarrollo de software.
 
