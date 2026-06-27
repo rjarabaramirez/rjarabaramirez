@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="portada.png" width="100%">
+<img src="banner.png" width="100%">
 
 # Hola, soy Roberto Carlos Jaraba Ramírez 👋
 
